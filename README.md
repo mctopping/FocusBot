@@ -2,4 +2,4 @@
 
 Matthew Topping, Ajay Seethana, Michael Pang, Elijah Tynes
 
-*DESCRIPTION HERE*
+As software engineering is currently being driven by humans, adverse human factors will affect the quality of the software being developed. As the demands on software engineers increase, the neglect of essential self-care will lead to adverse health effects, such as dehydration, fatigue, eye strain, and more. To address these challenges, we created FocusBot, an application designed to enhance software developers' well-being and productivity by encouraging regular breaks and promoting healthy work habits. Drawing inspiration from existing tools like WorkRave and EyeLeo, FocusBot integrates productivity tracking with break reminders, offering personalized task suggestions to help developers strike a balance between work and self-care. The application utilizes event-based architecture for real-time responsiveness and scalability, ensuring timely notifications based on user activity. This repository contains our outlines for the design, implementation, and testing of FocusBot, as well as potential future enhancements like smartwatch integration and advanced data analytics. 
